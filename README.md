@@ -9,6 +9,6 @@
  Lab4 - This lab introduces you to player input and gives objects different kinds of physics to interact with <br>
  Lab5 - This lab is used to showcase how to make a Third Person Camera and how to develop animations for in-game characters and/or objects <br>
  Lab7 - This lab is used to show off how to have NPC's with AI attached (e.g. pathfinding) and also develop Animation Masks <br>
- Lab8 - This lab introduces networking concepts and how to implement multiplayer within your Unity game
- Lab9 - This lab introduces the save system and makes it so that progress is kept for users playing their game
- Lab10 - This lab helps showcase how to have "ragdoll" physics and also how to make your own in-game cutscenes
+ Lab8 - This lab introduces networking concepts and how to implement multiplayer within your Unity game <br>
+ Lab9 - This lab introduces the save system and makes it so that progress is kept for users playing their game <br>
+ Lab10 - This lab helps showcase how to have "ragdoll" physics and also how to make your in-game cutscenes <br>
