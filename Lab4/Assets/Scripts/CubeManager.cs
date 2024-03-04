@@ -38,10 +38,10 @@ public class CubeManager : MonoBehaviour
     {
         GameObject cube = GameObject.Instantiate(cubePrefab, transform.position, transform.rotation);
         cube.transform.parent = transform;
-        //Rigidbody b = cube.GetComponent<Rigidbody>();
-        //b.AddForce(transform.forward * 20, ForceMode.Impulse);
-        //b.mass = Random.Range(1, 100);
-        //b.drag = Random.Range(0, 10);
+        Rigidbody b = cube.GetComponent<Rigidbody>();
+        b.AddForce(transform.forward * 20, ForceMode.Impulse);
+        b.mass = Random.Range(1, 100);
+        b.drag = Random.Range(0, 10);
     }
 
     private bool CreationRequested()
